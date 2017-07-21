@@ -37,5 +37,5 @@ public class Constants {
 
     // Defaults
     public static final String CM_UPDATE_TYPE_DEFAULT = "NIGHTLY";
-    public static final String CM_RELEASE_TYPE_DEFAULT = "UNOFFICIAL";
+    public static final String CM_RELEASE_TYPE_DEFAULT = "ARSENIC";
 }
