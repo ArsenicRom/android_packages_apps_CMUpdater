@@ -75,7 +75,7 @@
   <string name="blocked_update_dialog_title">Actualización bloqueada</string>
   <string name="blocked_update_dialog_message">Esta actualización no puede instalarse usando la aplicación de actualización. Lea la <![CDATA[<a href="%1$s">]]>; documentación wiki de LineageOS<![CDATA[</a>]]>; para más información.</string>
   <!-- Header -->
-  <string name="header_os">LineageOS\n%1$s</string>
+  <string name="header_os">Arsenic\n%1$s</string>
   <string name="header_summary">%1$s\n%2$s • Android %3$s\n%4$s</string>
   <string name="sysinfo_last_check">Última comprobación</string>
   <!-- Build item -->
@@ -85,7 +85,7 @@
   <string name="type_downloading">• Descargando</string>
   <string name="type_completing">• Finalizando</string>
   <string name="type_blocked">• Bloqueado</string>
-  <string name="summary">%1$s\nLineageOS %2$s • Android %3$s</string>
+  <string name="summary">%1$s\nArsenic %2$s • Android %3$s</string>
   <string name="download_button">Descargar</string>
   <string name="install_button">Instalar</string>
   <string name="info_button">Información</string>
