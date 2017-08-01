@@ -19,8 +19,10 @@
   <string name="menu_delete_all">Fjern nedlastinger</string>
   <string name="dialog_ok">Ok</string>
   <string name="dialog_cancel">Avbryt</string>
+  <string name="dialog_download">Last ned</string>
   <string name="dialog_update">Oppdater</string>
   <string name="dialog_close">Lukk</string>
+  <string name="dialog_reboot">Start på nytt</string>
   <!-- Settings strings -->
   <string name="available_updates_title">Tilgjengelige oppdateringer</string>
   <string name="no_available_updates_intro">Ingen nye oppdateringer funnet. For å sjekke etter oppdateringer manuelt, bruk Oppdater-knappen.</string>
